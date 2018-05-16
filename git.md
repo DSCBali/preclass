@@ -57,5 +57,9 @@ brew install git
 
 ## Windows
 
-
 **Download** *Git* dari [Git for Windows](http://msysgit.github.io/).
+
+<br>
+<br>
+
+### [Kembali ke awal](README.md)

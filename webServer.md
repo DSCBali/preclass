@@ -9,3 +9,8 @@
 ## Mac
 
 ## Windows
+
+<br>
+<br>
+
+### [Kembali ke awal](README.md)
