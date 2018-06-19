@@ -1,5 +1,7 @@
 Kita tidak akan terlalu fokus ke NodeJS tapi kita akan membutuhkannya untuk install beberapa modules yang akan dipakai nanti pada saat kelas.
 
+Berikut adalah cara termudah untuk install NodeJS, jika kalian ingin cara yang lebih advance bisa coba kunjungin di [Advance](#Advance)
+
 # Instalasi NodeJS
 
 - [Windows](#windows)
@@ -35,6 +37,11 @@ Setelah selesai pastikan node sudah terinstall dengan membuka terminal dan jalan
 Terakhir kalian perlu update `npm`. Bisa dengan cara berikut di terminal:
 `npm install npm --global`
 
+
+## Advance
+Kalian bisa pilih diantara 2 pilihan version manager berikut:
+- [nvm](https://github.com/creationix/nvm)
+- [n](https://github.com/tj/n)
 
 <br>
 <br>
