@@ -1,6 +1,7 @@
 Kita tidak akan terlalu fokus ke NodeJS tapi kita akan membutuhkannya untuk install beberapa modules yang akan dipakai nanti pada saat kelas.
 
-Berikut adalah cara termudah untuk install NodeJS, jika kalian ingin cara yang lebih advance bisa coba kunjungin di [Advance](#Advance)
+Berikut adalah cara termudah untuk install NodeJS, jika kalian ingin cara yang lebih advance bisa coba kunjungin di 
+[Advance](#advance)
 
 # Instalasi NodeJS
 
