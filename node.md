@@ -11,6 +11,33 @@ Berikut adalah cara termudah untuk install NodeJS, jika kalian ingin cara yang l
 
 ## Linux
 
+Panduan untuk distro berbasis **Debian** dan **Ubuntu**
+
+Termasuk: Linux Mint, Linux Mint Debian Edition (LMDE), elementaryOS, bash pada Windows dan lainnya.
+
+Buka terminal dan jalankan perintah berikut untuk menginstall NodeJS LTS v.8.11.3:
+```
+curl -sL https://deb.nodesource.com/setup_8.11.3 | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+Pastikan nodejs sudah terinstall dengan menjalankan perintah berikut untuk melihat versinya:
+```
+node -v
+```
+
+Setelah NodeJS terinstall, upgrade NPM ke versi terbaru dengan perintah berikut:
+```
+sudo npm install npm@latest -g
+```
+
+Selanjutnya install build tools untuk dapat mengcompile dan menginstall native addons dari npm dengan perintah berikut:
+```
+sudo apt-get install -y build-essential
+```
+
+Untuk distro lainnya bisa kunjungi [disini](https://nodejs.org/en/download/package-manager)
+
 
 ## Mac
 
