@@ -56,6 +56,11 @@ brew install git
 ```
 
 ## Windows
+Kamu bisa gunakan beberapa tools untuk membuka terminal:
+- Command Prompt (tidak dianjurkan)
+- Powershell
+- Git Shell (biasanya sudah ada ketika install git)
+- [Cygwin](https://www.cygwin.com/)
 
 **Download** *Git* dari [Git for Windows](http://msysgit.github.io/).
 
