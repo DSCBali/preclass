@@ -62,7 +62,8 @@ Kamu bisa gunakan beberapa tools untuk membuka terminal:
 - Git Shell (biasanya sudah ada ketika install git)
 - [Cygwin](https://www.cygwin.com/)
 
-**Download** *Git* dari [Git for Windows](http://msysgit.github.io/).
+**Download** *Git* [di sini](https://git-scm.com/download/win).
+Pilihlah sesuai dengan bit OS kalian (32 atau 64).
 
 <br>
 <br>
