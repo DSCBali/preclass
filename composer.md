@@ -4,7 +4,6 @@
 - [Mac](#mac)
 - [Linux](#linux)
 
-## Linux
 
 ## Mac
 
@@ -26,8 +25,9 @@ mv composer.phar /usr/local/bin/composer
 
 Dan composer dapat diakses secara global
 
+## Linux
 
-Kemudian 
+Untuk proses installasi composer di Linux sama seperti Mac karena memiliki base Unix OS
 
 ## Windows
 
