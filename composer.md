@@ -27,8 +27,6 @@ mv composer.phar /usr/local/bin/composer
 Dan composer dapat diakses secara global
 
 
-Kemudian 
-
 ## Windows
 
 Download installernya di [Composer for Windows](https://getcomposer.org/Composer-Setup.exe).
